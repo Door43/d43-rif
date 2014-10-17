@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rif:home|Door43 (rif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rif|d43-rif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rif/archive/master.zip|d43-rif.zip]]
+
+**Recent Changes**
+{{changes>ns = rif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rif|Ethnologue data]]
+
